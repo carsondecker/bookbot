@@ -1,1 +1,1 @@
-This is a simple book summary program that gives a breakdown of the words in Frankenstein.
+This is a simple book summary program that gives a breakdown of the words in Frankenstein. It requires you to have a file named "frankenstein.txt" in the same folder, you can find a download for it online. This is one of my earliest projects, so it's not very in depth.
